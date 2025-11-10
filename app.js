@@ -1,8 +1,8 @@
-import { nombreEstudiante,
-    calcularPromedio,
-    validarPromedio,
-    mensajeFinal,
+import {mensajeFinal,
+operacionesBancarias,
 
  } from "./modulos/index.js";
 
- mensajeFinal()
+//  mensajeFinal()
+
+operacionesBancarias()
