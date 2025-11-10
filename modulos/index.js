@@ -1,0 +1,1 @@
+export { nombreEstudiante, calcularPromedio, validarPromedio, mensajeFinal } from "./reto1.js"
